@@ -1,0 +1,11 @@
+D:\Vroom\Vroom.Backend\bin\Debug\CarSalesAd.Service.deps.json
+D:\Vroom\Vroom.Backend\bin\Debug\CarSalesAd.Service.runtimeconfig.json
+D:\Vroom\Vroom.Backend\bin\Debug\appsettings.Development.json
+D:\Vroom\Vroom.Backend\bin\Debug\appsettings.json
+D:\Vroom\Vroom.Backend\bin\Debug\CarSalesAd.Service.staticwebassets.runtime.json
+D:\Vroom\Vroom.Backend\bin\Debug\CarSalesAd.Service.exe
+D:\Vroom\Vroom.Backend\bin\Debug\CarSalesAd.Service.dll
+D:\Vroom\Vroom.Backend\bin\Debug\CarSalesAd.Service.pdb
+D:\Vroom\Vroom.Backend\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Vroom\Vroom.Backend\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Vroom\Vroom.Backend\obj\Debug\docker-c.35A3FFBA.Up2Date

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  carsalesad.service:
+    image: ${DOCKER_REGISTRY-}carsalesadservice
+    build:
+      context: .
+      dockerfile: CarSalesAd.Service/Dockerfile

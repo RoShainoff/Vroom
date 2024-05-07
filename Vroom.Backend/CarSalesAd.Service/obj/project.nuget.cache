@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Mvm7Vv+E4TCnGHYmlzqSDno92cpQXrfIJ2zKQWWjSUIha+dnBDAYO1jNum84nffm1upiBK+spej2J+Vxfgt9g==",
+  "success": true,
+  "projectFilePath": "D:\\Vroom\\Vroom.Backend\\CarSalesAd.Service\\CarSalesAd.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
