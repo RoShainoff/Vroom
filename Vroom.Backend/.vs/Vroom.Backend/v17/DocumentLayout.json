@@ -3,12 +3,27 @@
   "WorkspaceRootPath": "D:\\Vroom\\Vroom.Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{149688D4-8257-4D73-A00E-5C92F2986EF3}|docker-compose.dcproj|d:\\vroom\\vroom.backend\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{149688D4-8257-4D73-A00E-5C92F2986EF3}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{149688D4-8257-4D73-A00E-5C92F2986EF3}|docker-compose.dcproj|d:\\vroom\\vroom.backend\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{149688D4-8257-4D73-A00E-5C92F2986EF3}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA79339-5737-40B7-8864-FA4E618AF422}|Services\\CarSalesAd\\CarSalesAd.API\\CarSalesAd.API.csproj|d:\\vroom\\vroom.backend\\services\\carsalesad\\carsalesad.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1DA79339-5737-40B7-8864-FA4E618AF422}|Services\\CarSalesAd\\CarSalesAd.API\\CarSalesAd.API.csproj|solutionrelative:services\\carsalesad\\carsalesad.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{149688D4-8257-4D73-A00E-5C92F2986EF3}|docker-compose.dcproj|d:\\vroom\\vroom.backend\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{149688D4-8257-4D73-A00E-5C92F2986EF3}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA79339-5737-40B7-8864-FA4E618AF422}|Services\\CarSalesAd\\CarSalesAd.API\\CarSalesAd.API.csproj|d:\\vroom\\vroom.backend\\services\\carsalesad\\carsalesad.api\\carsalesad.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DA79339-5737-40B7-8864-FA4E618AF422}|Services\\CarSalesAd\\CarSalesAd.API\\CarSalesAd.API.csproj|solutionrelative:services\\carsalesad\\carsalesad.api\\carsalesad.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +41,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAALMAAAAAAAAAAAAuwMcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-15T11:32:17.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Vroom\\Vroom.Backend\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
               "ToolTip": "D:\\Vroom\\Vroom.Backend\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-05-15T09:30:45.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\Vroom\\Vroom.Backend\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "D:\\Vroom\\Vroom.Backend\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-15T11:07:09.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Vroom\\Vroom.Backend\\Services\\CarSalesAd\\CarSalesAd.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Services\\CarSalesAd\\CarSalesAd.API\\Dockerfile",
+              "ToolTip": "D:\\Vroom\\Vroom.Backend\\Services\\CarSalesAd\\CarSalesAd.API\\Dockerfile",
+              "RelativeToolTip": "Services\\CarSalesAd\\CarSalesAd.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-15T09:35:12.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarSalesAd.API",
+              "DocumentMoniker": "D:\\Vroom\\Vroom.Backend\\Services\\CarSalesAd\\CarSalesAd.API\\CarSalesAd.API.csproj",
+              "RelativeDocumentMoniker": "Services\\CarSalesAd\\CarSalesAd.API\\CarSalesAd.API.csproj",
+              "ToolTip": "D:\\Vroom\\Vroom.Backend\\Services\\CarSalesAd\\CarSalesAd.API\\CarSalesAd.API.csproj",
+              "RelativeToolTip": "Services\\CarSalesAd\\CarSalesAd.API\\CarSalesAd.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T09:35:10.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "docker-compose",
               "DocumentMoniker": "D:\\Vroom\\Vroom.Backend\\docker-compose.dcproj",
               "RelativeDocumentMoniker": "docker-compose.dcproj",
