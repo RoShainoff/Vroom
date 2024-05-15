@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("fe668749-30d5-453b-8201-89d95469c4a3")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarSalesAd.Service")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d618f48419cbf032797a84428039e69c49234220")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarSalesAd.Service")]
