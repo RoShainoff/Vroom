@@ -6,3 +6,12 @@ services:
     build:
       context: .
       dockerfile: Services/CarSalesAd/CarSalesAd.API/Dockerfile
+  
+  frontend:
+    image: frontend
+    build:
+      context: ../Vroom.Frontend/vroom.frontend
+      dockerfile: Dockerfile
+  
+  proxy: 
+    image: nginx:mainline
