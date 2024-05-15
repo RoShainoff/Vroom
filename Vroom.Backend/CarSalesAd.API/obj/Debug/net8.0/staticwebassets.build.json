@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gBqWUQAlS4RC9A7rAnqQtcbSFcHdrTni/6ZW2a8xaTc=",
+  "Source": "CarSalesAd.API",
+  "BasePath": "_content/CarSalesAd.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

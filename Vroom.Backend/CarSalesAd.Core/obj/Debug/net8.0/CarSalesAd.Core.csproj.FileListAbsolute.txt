@@ -1,0 +1,12 @@
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\bin\Debug\net8.0\CarSalesAd.Core.deps.json
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\bin\Debug\net8.0\CarSalesAd.Core.dll
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\bin\Debug\net8.0\CarSalesAd.Core.pdb
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\obj\Debug\net8.0\CarSalesAd.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\obj\Debug\net8.0\CarSalesAd.Core.AssemblyInfoInputs.cache
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\obj\Debug\net8.0\CarSalesAd.Core.AssemblyInfo.cs
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\obj\Debug\net8.0\CarSalesAd.Core.csproj.CoreCompileInputs.cache
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\obj\Debug\net8.0\CarSalesAd.Core.sourcelink.json
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\obj\Debug\net8.0\CarSalesAd.Core.dll
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\obj\Debug\net8.0\refint\CarSalesAd.Core.dll
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\obj\Debug\net8.0\CarSalesAd.Core.pdb
+D:\Vroom\Vroom.Backend\CarSalesAd.Core\obj\Debug\net8.0\ref\CarSalesAd.Core.dll
