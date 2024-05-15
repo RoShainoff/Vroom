@@ -5,4 +5,4 @@ services:
     image: ${DOCKER_REGISTRY-}carsalesadapi
     build:
       context: .
-      dockerfile: CarSalesAd.API/Dockerfile
+      dockerfile: Services/CarSalesAd/CarSalesAd.API/Dockerfile
